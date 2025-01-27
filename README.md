@@ -1,1 +1,1 @@
-see website = https://manishkumar010.github.io/scrolling-drink-website/
+see website : https://manishkumar010.github.io/scrolling-drink-website/
